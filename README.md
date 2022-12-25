@@ -1,6 +1,10 @@
 # BerthArrangements
 A full stack project to book berth seat
 
+Hosted Url:https://berthreservationsystem.netlify.app/
+Api Url:https://berth-arrangements-636h-egazg2ya7-pintu870.vercel.app/getAllSeats
+
+
 About:
 
 This project is about the Train-berth-Reservation-System which is used to book Train berth, 

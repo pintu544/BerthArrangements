@@ -62,7 +62,7 @@ function Seat() {
                 </div>
 
                 {/* seat map */}
-                <h4>Availability</h4>
+                <h4>Availability Status(<span style={{ color: 'blue', fontSize: '16px' }}> <i class="fa-solid fa-circle"></i> Booked </span><span style={{ color: 'green', fontSize: '16px' }}><i class="fa-solid fa-circle"></i> Available </span>)</h4>
 
 
                 <ol className="cabin ">

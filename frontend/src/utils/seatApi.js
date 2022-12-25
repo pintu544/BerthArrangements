@@ -1,5 +1,5 @@
 import axios from "axios";
-const api_url = "http://localhost:5000";
+const api_url = "https://berth-arrangements-636h-egazg2ya7-pintu870.vercel.app";
 
 
 // signup new user api

@@ -10,7 +10,7 @@ function Seat() {
 
     useEffect(() => {
         (async () => {
-            const res = await fetch('http://localhost:5000/getAllSeats');
+            const res = await fetch('https://berth-arrangements-636h-egazg2ya7-pintu870.vercel.app/getAllSeats');
             const data = await res.json()
             const SeatList = Object.values(data.data)
 

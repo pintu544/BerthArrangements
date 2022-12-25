@@ -39,5 +39,7 @@ How to start the app?
 clone the github link in your system 
 
 cd frontend -npm i->npm start
+
+
 cd backend -npm i->npm start
 Happy berth Reservation
